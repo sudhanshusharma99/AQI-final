@@ -1,9 +1,7 @@
 body {
 	padding: 0px;
 	margin: 0px;
-	background-image: url(../images/bg.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
+	background: #fff;
 	max-width: 100%;
 	height: auto;
 	font-family: Merriweather, Arial, Helvetica, sans-serif;
